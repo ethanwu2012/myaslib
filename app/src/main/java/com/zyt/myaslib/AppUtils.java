@@ -8,4 +8,8 @@ public class AppUtils {
     public static String getData(){
         return "data";
     }
+
+    public static String getData2(){
+        return "data";
+    }
 }
